@@ -1,2 +1,2 @@
-# OxySurvery
-This project is a survery for Oxy's marketing team!
+# OxySurvey
+This is the finished project about a survey for Oxy's marketing team!
